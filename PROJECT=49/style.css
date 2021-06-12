@@ -1,0 +1,15 @@
+h1{font-style: italic; font-weight: bolder; font-size: xx-large; text-align: center;}
+p{font-style: italic; font-weight: bolder; font-size:large; color: lightblue;}
+h2{color:white; font-style: italic; font-size: xx-large; font-weight: bolder;}
+h3{font-style: italic; font-weight: bolder; font: size 10px; text-align: center;}
+td{font-style: italic; font-weight: bolder; color: white; font-size: xx-large;}
+button{font-style:italic; font-weight: bolder; font-size: large; color: crimson; border-color: blanchedalmond;}
+input{font-weight: bolder; font-style: italic; font-size: large; color: firebrick;}
+img{border-style:groove;border-color: whitesmoke;}
+.container
+{
+    position: absolute;
+    top: 400%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
